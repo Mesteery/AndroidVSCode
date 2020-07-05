@@ -14,7 +14,7 @@
   * Open the app (and enter the password if there is one)
   * Use VSCode 🎉🎉
 
-⚠️ *Don't forget to exit the Termux process*
+⚠️ *Don't forget to exit the Termux process*  
 **To close :**
   * Close the app
   * Exit Termux
