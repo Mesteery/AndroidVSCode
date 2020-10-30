@@ -18,5 +18,3 @@
 **To close :**
   * Close the app
   * Exit Termux
-
-If you have problems with code-server installation you can search in Google, and if you found nothing, you can create issues or ping me (`Mestery#9999`) on Discord.
