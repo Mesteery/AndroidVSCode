@@ -5,7 +5,7 @@
 *You also need at least Node 12 installed.*
 
   * Install [code-server](https://github.com/cdr/code-server) globally : `npm i code-server -g`
-  * Install the app in [release](https://github.com/mestery69/AndroidVSCode/releases/tag) (or compile it yourself)
+  * Install the app in [releases](https://github.com/Mesteery/AndroidVSCode/releases) (or compile it yourself)
 
 ## Usage :
 ### Run
